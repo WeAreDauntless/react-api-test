@@ -1,0 +1,15 @@
+.root {
+    cursor: pointer;
+    border: 2px solid teal;
+    padding: 5px 15px;
+    margin: 1px;
+    background: transparent;
+    font-size: 14px;
+    font-weight: bolder;
+    color: teal;
+}
+
+.current {
+    background: bisque;
+    border: 3px solid brown;
+}
